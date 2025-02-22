@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:open_street_map/main.dart';
+import 'package:open_street_map/main_non_state.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
